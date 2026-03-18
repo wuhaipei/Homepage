@@ -29,6 +29,13 @@ const tools = [
     icon: "⏰",
     href: "/tools/timestamp",
   },
+  {
+    id: "video-subscriber",
+    name: "视频订阅检索",
+    description: "订阅 YouTube 频道，按关键词检索视频并导出 Markdown",
+    icon: "📺",
+    href: "/tools/video-subscriber",
+  },
 ];
 
 export default function Home() {

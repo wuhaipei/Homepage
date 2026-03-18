@@ -52,6 +52,9 @@ export default function RootLayout({
                 <Link href="/tools/json" className="text-gray-600 hover:text-blue-600 transition-colors">
                   JSON格式化
                 </Link>
+                <Link href="/tools/video-subscriber" className="text-gray-600 hover:text-blue-600 transition-colors">
+                  视频订阅
+                </Link>
               </nav>
             </div>
           </div>
